@@ -28,7 +28,7 @@ function setup() {
   };
  
   var ball_options = {
-    restitution:1,
+    restitution:2,
     frictionAir:0.02,
 
   }
